@@ -1,0 +1,34 @@
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\bin\Debug\proyectoonew.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyectoonew\proyectoonew\obj\Debug\proyectoonew.pdb
+E:\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe.config
+E:\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe
+E:\proyectoonew\proyectoonew\bin\Debug\proyectoonew.pdb
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csprojAssemblyReference.cache
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.MDIParent1.resources
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Properties.Resources.resources
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.GenerateResource.cache
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.CoreCompileInputs.cache
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.exe
+E:\proyectoonew\proyectoonew\obj\Debug\proyectoonew.pdb
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.MDIParent1.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Properties.Resources.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.exe
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.pdb
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe.config
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\bin\Debug\proyectoonew.exe
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\bin\Debug\proyectoonew.pdb
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Form1.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Form2.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Form3.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Form4.resources
+C:\Users\willi\Desktop\proyectoonew\proyectoonew\obj\Debug\proyectoonew.Form5.resources
